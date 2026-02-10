@@ -1,4 +1,6 @@
-/* Nasconde i separatori orizzontali (linee) nel contenuto */
-.main-content hr {
-  display: none !important;
+/* Rimuove eventuali bordi/separatori generici */
+.main-content-wrap,
+.main,
+.site-nav {
+  border: none !important;
 }
