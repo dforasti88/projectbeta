@@ -1,9 +1,0 @@
-/* Rimuove la linea orizzontale sopra il contenuto */
-.main-content {
-  border-top: none !important;
-}
-
-/* Rimuove eventuale separatore header */
-.site-header {
-  border-bottom: none !important;
-}
