@@ -17,7 +17,7 @@ has_toc: false
 
 <hr>
 
-<h2>1) Identità del BG (come si vince davvero)</h2>
+<h2>1) Identità del BG</h2>
 <p><strong>Formato:</strong> 10v10.</p>
 <p><strong>Meccanica chiave:</strong> cattura della <strong>bandiera nemica</strong> e consegna nella propria base.</p>
 
