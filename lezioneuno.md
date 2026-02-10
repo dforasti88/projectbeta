@@ -4,7 +4,7 @@ parent: Guide
 nav_order: 1
 has_toc: false
 ---
-<h1>Lezione PvP – Bacino di Arathi (Arathi Basin) – Versione Esaustiva</h1>
+<h1>Lezione PvP – Bacino di Arathi (Arathi Basin)</h1>
 
 <h2>0) Obiettivo della lezione</h2>
 <p>Alla fine di questa lezione devi saper:</p>
@@ -16,7 +16,7 @@ has_toc: false
 
 <hr>
 
-<h2>1) Identità del BG (come si vince davvero)</h2>
+<h2>1) Identità del BG</h2>
 <p><strong>Formato:</strong> 15v15, 5 basi (nodi).</p>
 <p><strong>Meccanica chiave:</strong> il punteggio sale in base a quante basi controlli. Più basi = più punti al secondo.</p>
 
