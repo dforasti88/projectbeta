@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-<img width="986" height="868" alt="immagine" src="https://github.com/user-attachments/assets/8fb770bc-cd72-4197-8206-ca11d34e1f79" />
+<img width="705" height="577" alt="immagine" src="https://github.com/user-attachments/assets/df0a3e7f-3314-4989-915f-7285cd08523c" />
 
 Introduzione
 
