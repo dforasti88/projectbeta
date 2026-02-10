@@ -4,7 +4,7 @@ parent: Guide
 nav_order: 1
 has_toc: false
 ---
-<h1>Lezione PvP – Occhio del Ciclone (Eye of the Storm) – Versione Esaustiva</h1>
+<h1>Lezione PvP – Occhio del Ciclone (Eye of the Storm)</h1>
 
 <h2>0) Obiettivo della lezione</h2>
 <p>Alla fine di questa lezione devi saper:</p>
@@ -16,7 +16,7 @@ has_toc: false
 
 <hr>
 
-<h2>1) Identità del BG (come si vince davvero)</h2>
+<h2>1) Identità del BG </h2>
 <p><strong>Formato:</strong> 15v15.</p>
 <p><strong>Meccaniche chiave:</strong></p>
 <ul>
