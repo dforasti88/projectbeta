@@ -14,9 +14,9 @@ Gioco a WoW da anni con un focus molto chiaro: **PvP**, in particolare i **Battl
 Mi piace il lato “ragionato” del PvP: lettura della mappa, rotazioni, difese intelligenti, chiamate pulite e decisioni rapide quando la partita cambia ritmo.
 
 Per molto tempo ho avuto anche ruoli di responsabilità fuori dal match, coprendo il ruolo sia di **Officer** che di **GM**.
-Questo mi ha insegnato a gestire persone, obiettivi e organizzazione, e a dare valore alla costanza più che alla singola serata “fortunata”.
+Questo mi ha insegnato a gestire persone, obiettivi e organizzazione.
 
-Oggi gioco con i **Prime Riders**, con lo stesso approccio: migliorare, condividere strategie e rendere le partite più solide.  
+Da poco tornato a giocare, sono entrato nella gilda **Prime Riders**, con lo stesso approccio: migliorare, condividere strategie e rendere le partite più solide.  
 Le guide di questo sito nascono proprio da qui: trasformare esperienza e pratica in contenuti chiari, replicabili e utili a chi vuole vincere con più continuità.
 
 Se ti va aggiungimi, il mio btag è **Yogg#21340**. Ci vediamo in game!
