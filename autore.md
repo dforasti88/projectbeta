@@ -21,4 +21,4 @@ Le guide di questo sito nascono proprio da qui: trasformare esperienza e pratica
 
 Se ti va aggiungimi, il mio btag è **Yogg#21340**. Ci vediamo in game!
 
-<img width="507" height="817" alt="sito" src="https://github.com/user-attachments/assets/4c77dcd2-b98b-4c25-83f3-afd13c9c855f" />
+<img width="507" height="817" alt="sito" src="https://github.com/user-attachments/assets/4c77dcd2-b98b-4c25-83f3-afd13c9c855f"/>
